@@ -1,0 +1,18 @@
+Metas para fazer os módulos:
+
+Módulo II	- 05/06 a 11/06
+Módulo III	- 12/06 a 18/06
+Módulo IV	- 19/06 a 02/07
+Módulo V	- 03/07 a 09/07
+Módulo VI	- 10/07 a 23/07
+
+Datas e Horários das Mentorias:
+
+Mentoria #1: 30/05 - 14:00h
+	Tema: Carreiras Tech na Unimed BH
+Mentoria #2: 14/06 - 14:00h
+	Tema: Introdução ao banco de dados ORACLE
+Mentoria #3: 30/06 - 16:00h
+	Tema: Melhores práticas com API Rest e Restful
+Mentoria #4: 12/07 - 16:00h
+	Tema: Como ser o próximo contratado pela Unimed BH

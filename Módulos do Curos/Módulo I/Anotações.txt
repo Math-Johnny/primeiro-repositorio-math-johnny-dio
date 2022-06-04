@@ -1,0 +1,19 @@
+#Pensamento Computacional
+Links das referências: 
+	https://www.cin.ufpe.br/~if114/Monografias/Reconhecimento/
+
+	https://web.fe.up.pt/~jmsa/recpad/index.htm
+
+	https://www.teses.usp.br/teses/disponiveis/18/18133/tde-10072006-
+
+	002119/publico/Capitulo_2_mestrado.pdf
+
+	http://www.vision.ime.usp.br/~teo/publications/dissertacao/node9.html
+
+	https://periodicos.furg.br/vetor/article/view/3363/3811
+
+#Git e GitHub
+
+Link para download do Git:https://git-scm.com/downloads
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
